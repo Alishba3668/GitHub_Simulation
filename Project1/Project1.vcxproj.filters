@@ -18,5 +18,8 @@
     <ClCompile Include="repo bp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="repo main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
