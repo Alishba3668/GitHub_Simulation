@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="repo csv.cpp" />
     <ClCompile Include="repo.cpp" />
+    <ClCompile Include="user 1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
