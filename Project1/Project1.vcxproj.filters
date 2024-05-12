@@ -25,5 +25,14 @@
 >>>>>>> 56111b20aa901908883241de6db8c8b62a1ae260
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Socials.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FollowUnfollow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Social Features.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
