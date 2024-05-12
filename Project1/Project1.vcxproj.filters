@@ -21,5 +21,14 @@
     <ClCompile Include="repo main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Socials.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FollowUnfollow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Social Features.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
