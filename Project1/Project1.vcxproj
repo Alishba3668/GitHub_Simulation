@@ -129,9 +129,16 @@
   <ItemGroup>
     <ClCompile Include="FollowUnfollow.cpp" />
     <ClCompile Include="repo bp.cpp" />
+<<<<<<< HEAD
+    <ClCompile Include="Social .cpp" />
+=======
     <ClCompile Include="repo main.cpp" />
+<<<<<<< HEAD
     <ClCompile Include="Social Features.cpp" />
     <ClCompile Include="Socials.cpp" />
+=======
+>>>>>>> 56111b20aa901908883241de6db8c8b62a1ae260
+>>>>>>> 32e5ce545cb3d77ea50b9ad35dd937ec42048554
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
