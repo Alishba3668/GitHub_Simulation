@@ -127,7 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Repository.cpp" />
+    <ClCompile Include="Repository.h" />
     <ClCompile Include="gitHub.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="repo csv.cpp" />
     <ClCompile Include="repo.cpp" />
     <ClCompile Include="user 1.cpp" />
